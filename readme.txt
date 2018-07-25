@@ -12,6 +12,7 @@ my email is youngerzeng@gmail.com.
     <url-pattern>/*</url-pattern>
   </filter-mapping>
 辣么，我现在又要修改一次该文件了，添加一个user类
+再一次的修改文件
 package cn.itcx.chapter08.entity;
 public class User {
 	private String username;
