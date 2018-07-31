@@ -1,0 +1,90 @@
+[33mcommit e7af2253afdd5437cbd78522abac46a608ece253[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: a625cab d4fa3c1
+Author: youngerZeng <1047353858@qq.com>
+Date:   Wed Jul 25 23:45:26 2018 +0800
+
+    解决合并冲突
+
+[33mcommit a625cabcd678421da182bc1fc02d4224030385c6[m
+Author: youngerZeng <1047353858@qq.com>
+Date:   Wed Jul 25 23:40:16 2018 +0800
+
+    我修改了新分支
+
+[33mcommit d4fa3c16f38a95ef1a5dd716f73349dd44b1d7a8[m[33m ([m[1;32mfeature1[m[33m)[m
+Author: youngerZeng <1047353858@qq.com>
+Date:   Wed Jul 25 23:37:37 2018 +0800
+
+    我添加了一个新分支
+
+[33mcommit 9eaef36573cfb6412723d46283275484523351c1[m
+Author: youngerZeng <1047353858@qq.com>
+Date:   Wed Jul 25 23:29:59 2018 +0800
+
+    我再测试branch
+
+[33mcommit f57642bfacd8344cf978e928e697f4db6a7d023f[m
+Author: youngerZeng <1047353858@qq.com>
+Date:   Wed Jul 25 23:26:35 2018 +0800
+
+    我在测试branch分支
+
+[33mcommit 73d1db203296547938b9074481e8eb940ecb67b2[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: youngerZeng <1047353858@qq.com>
+Date:   Wed Jul 25 21:57:57 2018 +0800
+
+    我删除了readme2.txt
+
+[33mcommit 21255e80840ab7cacf46851411bad2383d2b8208[m
+Author: youngerZeng <1047353858@qq.com>
+Date:   Wed Jul 25 20:04:11 2018 +0800
+
+    我又修改了一行
+
+[33mcommit 6cbf1eb17ce3bab7579ad2473ef74b5bba9e5e8a[m
+Author: youngerZeng <1047353858@qq.com>
+Date:   Wed Jul 25 20:03:08 2018 +0800
+
+    我修改了一行行
+
+[33mcommit e451c42565c5022b51c0f575b08c8cdb4307242f[m
+Author: youngerZeng <1047353858@qq.com>
+Date:   Wed Jul 25 19:57:23 2018 +0800
+
+    我又添加了三个文件
+
+[33mcommit 55351464cd3042ce4c5144e9c18a9e9f20640c81[m
+Author: youngerZeng <1047353858@qq.com>
+Date:   Wed Jul 25 19:32:37 2018 +0800
+
+    我又加了一行文字
+
+[33mcommit dec6b5ca6492c77e5fffa7dc2eb9f913496bbacf[m
+Author: youngerZeng <1047353858@qq.com>
+Date:   Wed Jul 25 17:31:22 2018 +0800
+
+    我添加了一个user类
+
+[33mcommit bc944a23c1b7495bfc120465040b44facdc16970[m
+Author: youngerZeng <1047353858@qq.com>
+Date:   Wed Jul 25 17:21:00 2018 +0800
+
+    我添加了一段filter过滤器的配置
+
+[33mcommit 5075ded139cec6969a6c147a0f5f690dbeaa6ec9[m
+Author: youngerZeng <1047353858@qq.com>
+Date:   Wed Jul 25 17:16:54 2018 +0800
+
+    add distributed
+
+[33mcommit 04048d54758fe4bf44a526ff6e25b342bf506400[m
+Author: youngerZeng <1047353858@qq.com>
+Date:   Wed Jul 25 17:11:31 2018 +0800
+
+    worte a readme file
+
+[33mcommit 30e8d329e0b12e30e36d57ccac9711d1c9e0c793[m
+Author: youngerzeng <31131213+youngerzeng@users.noreply.github.com>
+Date:   Wed Jul 25 22:44:55 2018 +0800
+
+    Initial commit
